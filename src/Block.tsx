@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import circle from "../public/icons/circle.svg";
-import cross from "../public/icons/cross.svg";
+import circle from "/icons/circle.svg";
+import cross from "/icons/cross.svg";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
