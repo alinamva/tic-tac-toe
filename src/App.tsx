@@ -1,11 +1,7 @@
 import Block from "./Block";
 
 function App() {
-  return (
-    <>
-      <Block />
-    </>
-  );
+  return <Block />;
 }
 
 export default App;
